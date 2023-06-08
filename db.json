@@ -1,19 +1,13 @@
 {
   
-    {
+    
       "position": "Software Engineer",
       "title": "Backend Developer",
       "description": "You will help us build API for our compression infrastructure.",
       "url": "http://piedpiper.com/jobs/backend-developer",
       "type": "full-time",
-      "posted": "2015-01-20",
-      "location": "US",
-      "skills": ["Python", "Javascript", "Redis"],
-      "salaryRange": {
-        "from": 90000,
-        "to": 100000,
-        "currency": "USD"
-      },
+      
+     
      
       
      
